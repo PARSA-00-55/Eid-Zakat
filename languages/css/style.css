@@ -173,6 +173,7 @@ h3 {
 .fund-card > img {
   height: 180px;
   width: 100%;
+  object-fit: cover;
   background-position: center;
   background-size: cover;
 }
